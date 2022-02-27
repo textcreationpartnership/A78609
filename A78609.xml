@@ -1,0 +1,447 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The charge upon Sr. Hamon l'Estrange together with his vindication and recharge.</title>
+            <author>L'Estrange, Hamon, 1583-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78609</idno>
+            <idno type="STC">Wing C2062A</idno>
+            <idno type="STC">ESTC R173671</idno>
+            <idno type="EEBO-CITATION">45504406</idno>
+            <idno type="OCLC">ocm 45504406</idno>
+            <idno type="VID">171708</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171708)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2587:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The charge upon Sr. Hamon l'Estrange together with his vindication and recharge.</title>
+                  <author>L'Estrange, Hamon, 1583-1654.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages tightly bound.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Hamon, 1583-1654.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171708:1"/>
+            <p>THE CHARGE upon S<hi rend="sup">r</hi> Hamon l'Eſtrange Together with his Vindi<g ref="char:EOLhyphen"/>cation and <hi>RECHARGE.</hi>
+            </p>
+            <p>London, Printed in the Yeare, 1640.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171708:2"/>
+            <pb facs="tcp:171708:2"/>
+            <head>The Charge upon Sir <hi>Hamon L'Eſtrange,</hi> together with his Vindication and <hi>Recharge.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Alomon ſayes, <hi>There is a time to keepe ſilence, and a time to ſpeake.</hi>
+            </p>
+            <p>I have lately vnderſtood that I have much ſuffered by a report throwne abroad by ſome gentlemen of <hi>Norfolk</hi> (who were in <hi>Lynne</hi> during the ſiege thereof) of a foule practiſe &amp; com<g ref="char:EOLhyphen"/>bination of mine for a ſecret ſurpriſe &amp; arreſt of ſundry of thoſe Gentlemen, and a meeting to that end contrived &amp; appointed by me to be at <hi>Swaffham</hi> in <hi>Norfolke,</hi> &amp; I am ſeaſonable awakened to ſpeake for my ſelfe, and to endea<g ref="char:EOLhyphen"/>vour to wipe off this unjuſt and ma<g ref="char:EOLhyphen"/>ligne ſpatter upon my name and repu<g ref="char:EOLhyphen"/>tation.</p>
+            <pb n="2" facs="tcp:171708:3"/>
+            <p>In 1643 the Towne and Borough of <hi>Kings Lynne</hi> in <hi>Norfolke</hi> being fortified by the Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mon-Counſell there, and a ſouldi<g ref="char:EOLhyphen"/>ery raiſed by contribution in addition to the Trained-bands, for the defence thereof, they paſſed a <hi>Declaration, not to deliver the Towne to any not authori<g ref="char:EOLhyphen"/>zed to demand it by joynt conſent of King and Parliament.</hi>
+            </p>
+            <p>Afterward the Earle of <hi>Mancheſter</hi> (being authorized and appointed by the <hi>Parliament</hi> to reduce <hi>Lynne</hi>) ſent a Meſſage to the <hi>Major,</hi> and demanded entrance, &amp; Paſſage through the ſame, in the name of <hi>King and Parliament,</hi> but was denied and refuſed.</p>
+            <p>A ſhort time after (among ſundry o<g ref="char:EOLhyphen"/>ther Gentlemen that repaired thither) Sir <hi>Hamon L'Eſtrange</hi> Knight (living within twelve miles thereof, and one who had often taſted of the bitter cup of the times, and had advertiſement of new menaces towards him,) went thither alſo for ſafety, and within two or three dayes the Town was beſieged
+<pb n="3" facs="tcp:171708:3"/>by the forces of the Earle of <hi>Manche<g ref="char:EOLhyphen"/>ſter,</hi> during which time Sir <hi>Hamon L'Eſtrange</hi> was plundred of ſeventeene hundred ſheepe, and ſundry other goods and cattell to the value of above twelve hundred pounds.</p>
+            <p>After the Towne had been beſieged about three weekes, it was rendred to the Earle of <hi>Mancheſter,</hi> upon <hi>Arti<g ref="char:EOLhyphen"/>cles</hi> agreed betwixt <hi>Commiſſioners</hi> on both parts, whereof the ſixt is as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>
+               <hi>The Commiſſioners on the part of the Earle of</hi> Mancheſter <hi>doe agree, that nei<g ref="char:EOLhyphen"/>ther the Perſons, nor Eſtates of any of the Inhabitants, Gentlemen or Strangers, now reſident in</hi> Lynne, <hi>ſhall be hereafter any waies moleſted or prejudiced, for a<g ref="char:EOLhyphen"/>ny thing paſt or done by them, or any of them, ſince the Earle of</hi> Mancheſter <hi>his comming into theſe parts.</hi>
+            </p>
+            <p>Nnevertheleſſe,</p>
+            <p>Upon the ninth of <hi>December</hi> fol<g ref="char:EOLhyphen"/>lowing ſome Inhabitants of <hi>Lynne</hi> pe<g ref="char:EOLhyphen"/>titioned
+<pb n="4" facs="tcp:171708:4"/>and obtained from the Lords and Commons and Order as followeth.</p>
+            <p>
+               <hi>Foraſmuch as the Earle of</hi> Man<g ref="char:EOLhyphen"/>cheſter <hi>in his Articles of agreement with the Towne of</hi> Kings Lynne <hi>remitted their offence in reference to himſelfe and his Army, but touched upon no private injuries done by the Malignants to the well-affected; It is Ordered that ſuch perſons as did any damage to their houſes or Mills, or any other wayes unto them, ſhall make reſtitution; and that Colonell</hi> Walton (<hi>Governour of</hi> Lynne) M<hi rend="sup">r</hi> Percivall <hi>and</hi> M<hi rend="sup">r</hi> Toll <hi>(Mem<g ref="char:EOLhyphen"/>bers of the Houſe of Commons) ſhall enquire the damages, and make reparation under paine of ſequeſtra<g ref="char:EOLhyphen"/>tion</hi> (<hi>from Colonell</hi> Walton, <hi>M<hi rend="sup">r</hi>
+               </hi> Peircivall, <hi>and</hi> M<hi rend="sup">r</hi> Toll, <hi>of ſo much as will make reparation</hi>) <hi>up<g ref="char:EOLhyphen"/>on default.</hi>
+            </p>
+            <pb n="5" facs="tcp:171708:4"/>
+            <p>This is no place, nor is it pertinent to the ſcope of this diſcourſe, to gloſſe or paraphraſe upon the <hi>Order;</hi> but to ſpeake to matter of fact onely in que<g ref="char:EOLhyphen"/>ſtion, Sir <hi>Hamon L'Eſtrange</hi> (having a reſponſall eſtate (wherein he was <hi>ſui juris,</hi> and dwelling nigh <hi>Lynne</hi>) was charged by warrant from the ſaid three Referees to pay ſundry great ſummes of mony, which (for feare of ſequeſtra<g ref="char:EOLhyphen"/>tion menaced in the ſaid warrants) he was ſubdued to pay, to the ſum of be<g ref="char:EOLhyphen"/>twixt two and three hundred pounds.</p>
+            <p>And before the dayes were accom<g ref="char:EOLhyphen"/>pliſhed for payment of more monyes upon the warrants of the Referrees, Sir <hi>Hamon L'Eſtrange,</hi> and one <hi>Robert Clench</hi> Eſquire, complained by petition to the Houſe of <hi>Commons</hi> of the viola<g ref="char:EOLhyphen"/>tion of the <hi>Articles</hi> of <hi>Lynne,</hi> and obtei<g ref="char:EOLhyphen"/>ned an Order from the Houſe of <hi>Com<g ref="char:EOLhyphen"/>mons</hi> the 12. of <hi>May</hi> 1645 of reference to a ſelect Committee of the ſaid houſe, to examine, ſtate and report the whole matter to the Houſe.</p>
+            <p>In <hi>February</hi> following Sir <hi>Hamon
+<pb n="6" facs="tcp:171708:5"/>L'Eſtrange,</hi> and Mr. <hi>Clench,</hi> being ſum<g ref="char:EOLhyphen"/>moned by warrant from the ſelect Committee, attended at <hi>London,</hi> with Counſell, and two Solicitors, and twelve witneſſes, from about a hun<g ref="char:EOLhyphen"/>dred miles diſtance, by the ſpace of a month, to the charge of above ſixty pounds, and nothing was done therein.</p>
+            <p>Matters thus reſted untill that,<label type="milestone">
+                  <seg type="milestoneunit">year </seg>1646</label> in July 1646, another Charge was impoſed (by warrant from the Refer<g ref="char:EOLhyphen"/>rees) upon Sir <hi>Hamond L'Eſtrange,</hi> and one Mr <hi>Kirby</hi> of <hi>Lynne,</hi> for the pay<g ref="char:EOLhyphen"/>ment of two hundred ſeventy five pounds, twelve ſhillings &amp; three pence a peece, in all, five hundred fifty one pounds foure ſhillings ſixe pence (with<g ref="char:EOLhyphen"/>in ten dayes next after notice) to the Major and Burgeſſes of <hi>Lynne,</hi> for dam<g ref="char:EOLhyphen"/>ages done during the ſiege in the demo<g ref="char:EOLhyphen"/>liſhment of an Hoſpitall belonging to the ſaid Towne, or to ſhew cauſe in writing to the contrary, to which Sir <hi>Hamon</hi> ſent an anſwer.</p>
+            <p>In <hi>Auguſt</hi> following Sir <hi>Hamon L'Eſtrange</hi> was charged (with nineteene <label type="milestone">
+                  <seg type="milestoneunit">year </seg>1646</label>
+               <pb n="7" facs="tcp:171708:5"/>others mentioned in the warrants of the Referrees, whereof Mr. <hi>Clench</hi> was one, and the ſaid Mr. <hi>Kirby</hi> left out) to the payment of the ſaid five hundred fifty one pounds foure ſhillings ſix pence, at a day prefixed, or to ſhew cauſe in writing to the contrary, to which alſo Sir <hi>Hamon</hi> returned anſwer.</p>
+            <p>And thereupon he wrote &amp; ſent let<g ref="char:EOLhyphen"/>ters to ſundry Gentlemen named in the ſaid warrants, and deſired of them a meeting for conference and conſide<g ref="char:EOLhyphen"/>ration about the ſaid charge of five hundred fifty one pounds foure ſhil<g ref="char:EOLhyphen"/>lings ſixe pence, but they all failed to meet at the day and place prefixed by Sir <hi>Hamon.</hi>
+            </p>
+            <p>In <hi>October</hi> following, Sir <hi>Hamon L'Eſtrange,</hi> and Mr. <hi>Clench</hi> and Mr. <hi>Kir<g ref="char:EOLhyphen"/>by,</hi> were all three charged (by warrants <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the Referrees, and the other eigh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eene (ſecondly charged) all omitted) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o pay an hundred eighty three pounds <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourteene ſhillings tenne pence a piece, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all, five hundred fifty one pounds <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oure ſhillings ſixe pence, at dayes pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>xed ſeverally unto them.</p>
+            <pb n="8" facs="tcp:171708:6"/>
+            <p>Soone after Sir <hi>Hamon L'Eſtrange</hi> be<g ref="char:EOLhyphen"/>ing at <hi>London</hi> his goods were ſeque<g ref="char:EOLhyphen"/>ſtred in the Country to the ſaid ſum of one hundred eighty three pounds four<g ref="char:EOLhyphen"/>teene ſhillings ten pence; for the pay<g ref="char:EOLhyphen"/>ment whereof bond was entred to the Collectors, who alſo tooke nine pounds for fees.</p>
+            <p>The ſaid bond being after put in ſuite contrary to the expectation of Sir <hi>Hamon L'Eſtrange</hi> by reaſon of a <hi>ſu<g ref="char:EOLhyphen"/>perſedas</hi> of the ſaid Sequeſtration ob<g ref="char:EOLhyphen"/>teined from Colonell <hi>Walton</hi> (and Mr<g ref="char:punc">▪</g> 
+               <hi>Corbet</hi> formerly added in ſupply o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mr. <hi>Percivall</hi> deceaſed) and havin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtayed the ſaid action (commenced a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Common Law, upon the default o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> payment) by <hi>Injunction</hi> out of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Chancery</hi>) in <hi>Aprill</hi> 1647, Sir <hi>Hamo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> L'Estrange</hi> repaired to <hi>Lynne</hi> to con<g ref="char:EOLhyphen"/>ferre with Mr. <hi>Toll</hi> about the ſaid ſuit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and other ſuites which he underſtoo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were menaced towards him and other by ſome inhabitants of <hi>Lynne,</hi> who ap<g ref="char:EOLhyphen"/>prehended incouragement from th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſucceſſe which late before Mr. <hi>Toll</hi> ob<g ref="char:EOLhyphen"/>teined at <hi>Bury</hi> Aſſiſes upon the trya<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="9" facs="tcp:171708:6"/>of two <hi>Actions</hi> of <hi>Impriſonment</hi> of him<g ref="char:EOLhyphen"/>ſelfe and his wife at <hi>Lynne</hi> at the time of the ſiege there, wherein he recovered one hundred pounds for himſelfe, and one hundred and fifty pounds for his wife, againſt Sir <hi>Hamon L'Eſtrange, Tho<g ref="char:EOLhyphen"/>mas Dereham,</hi> and <hi>Robert Jegon</hi> E<g ref="char:EOLhyphen"/>ſquires.</p>
+            <p>Mr. <hi>Toll</hi> declared, upon conference with Sir <hi>Hamon L'Eſtrange,</hi> that foraſ<g ref="char:EOLhyphen"/>much as hee was fully ſatisfied that the reſt of the Gentlemen (who were in <hi>Lyn</hi> during the ſiege, &amp; adhered to the defence thereof, &amp; adviſed &amp; abetted to the pulling downe of the ſaid Hoſ<g ref="char:EOLhyphen"/>pitall, and other damages) were alike liable to the charge of the reparation, he would therfore endeavour that they might eaſe one another, by a more ge<g ref="char:EOLhyphen"/>nerall contribution, and was perſwa<g ref="char:EOLhyphen"/>ded that if Sir <hi>Hamon L'Eſtrange</hi> would write unto the Gentlemen, and requeſt a meeting for conſideration thereupon, the Gentlemen would readily meet and fairely comply: Sir <hi>Hamon L'Eſtrange</hi> utterly diſliked the motion, deſpair<g ref="char:EOLhyphen"/>ing of any good event, by reaſon of his
+<pb n="10" facs="tcp:171708:7"/>former endeavours, and the repulſe o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neglect which he received; As alſo be<g ref="char:EOLunhyphen"/>cauſe the other parties had moſt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them hitherto enjoyed the quiet o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their perſon and purſe, and hoped an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aymed at the continuance of thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> calme condition; Sir <hi>Hamon L'Eſtrang<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> further alledging the great toyle, trou<g ref="char:EOLunhyphen"/>ble and charge, of writing and ſending ſo many ſeverall letters to ſo many ſeverall, remote, and ſcattered parts o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Gentlemens abode.</p>
+            <p>Nevertheleſſe the preſſing advice and perſwaſion of Mr. <hi>Toll</hi> prevailed a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> length with Sir <hi>Hamon L'Eſtrange</hi> to make tryall and aſſay, and forthwith hee drew the forme of a letter (which he thought fitteſt to be one and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſame to all) and ſhewed the ſame to Mr. <hi>Toll,</hi> who approved thereof, and was as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I ſuppoſe that before this time you have underſtood of the late verdicts paſ<g ref="char:EOLhyphen"/>ſed againſt Mr. <hi>Dereham,</hi> Mr. <hi>Jegon</hi>
+                     <pb n="11" facs="tcp:171708:7"/>and my ſelfe at the laſt Aſſiſes at <hi>Bury,</hi> at the ſute of Mr. <hi>Toll</hi> and his wife, and Miſtris <hi>Percivall,</hi> and how the Judges there declared their opinions, that all perſons commanding, and all other (pre<g ref="char:EOLhyphen"/>ſent or abſent) conſenting or abetting to any damages done at <hi>Lynne</hi> during the ſiege, are by law equally lyable to repara<g ref="char:EOLhyphen"/>tion, which may juſtly awaken us to con<g ref="char:EOLhyphen"/>ſider the danger and charge that will cer<g ref="char:EOLhyphen"/>tainely befall every one of us upon fur<g ref="char:EOLhyphen"/>ther queſtions and ſute, which moves me to adviſe and deſire, that in ſuch joynt concernment we may meet and conſult how to reduce the ſtate of our buſineſſe to the ſooneſt and ſafeſt period for all of us in generall, otherwiſe for my particular, (who have hitherto ſuſteyned &amp; endured the whole ſtorme of theſe troubles with very ſmall aſſiſtance, to the great to yle of my perſon, &amp; charge of my purſe) I ſhall ſtudy and endeavour to procure mine owne peace at the beſt termes I may for my ſelfe.</p>
+                  <p>I have preſumed to nominate and ap<g ref="char:EOLhyphen"/>point Thurſday the Fifteenth of this
+<pb n="12" facs="tcp:171708:8"/>Moneth in the afternoone for the time and <hi>Swaffham</hi> for the place of our mee<g ref="char:EOLhyphen"/>ting.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Apr. the 6. 1647.</hi>
+                        </date>
+                     </dateline>
+                     <salute>Sir,</salute>
+                     <signed>Your commandable, <hi>Hamon L'Eſtrange</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Soone after Sir <hi>Hamon L'Eſtrang<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> wrote letters to ſixteene Gentlemen t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the tenour aforeſaid, from ſome he re<g ref="char:EOLhyphen"/>ceived anſwer by writing, from other<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by meſſage, and word of mouth, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all ſuch as gave him cauſe to deſpaire o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the comming or meeting of any o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them.</p>
+            <p>Nevertheleſſe at the day appointed Sir <hi>Hamon L'Eſtrange</hi> travailed to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place (which was about eighteene mile<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from his owne houſe) and there under<g ref="char:EOLhyphen"/>ſtood of one Gentleman who had bee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there and was departed,<note place="margin">R. P.</note> and one onely
+<pb n="13" facs="tcp:171708:8"/>met there and ſtay'd of the many Gentlemen ſummoned and concerned.</p>
+            <p>Sir <hi>Hamon</hi> ſignified to him the cauſe of his deſires of a meeting, and after ſome diſcourſe paſſed interchangeably, Sr <hi>Hamon L'Eſtrange</hi> offered his ſence and opinion, that if the heate and ear<g ref="char:EOLhyphen"/>neſtneſſe of Mr. <hi>Toll</hi> (who was then <hi>Mayor</hi> of <hi>Linne,</hi> and the moſt power<g ref="char:EOLhyphen"/>full man thereof, both by his Office and his Memberſhip of the Houſe of <hi>Commons</hi>) might be mitigated and a<g ref="char:EOLhyphen"/>bated by a generall reaſonable compli<g ref="char:EOLhyphen"/>ance for amends and ſatisfaction to<g ref="char:EOLhyphen"/>wards the <hi>Hoſpitall,</hi> it might advantage all the Gentlemen in better acceptance towards Mr. <hi>Toll,</hi> and the <hi>Burgeſſes</hi> of <hi>Lynne,</hi> and coole their rancour and in<g ref="char:EOLhyphen"/>flammation towards further ſuites and vexations of all the Gentlemen; Sir <hi>Hamon</hi> further ſhewing that the ſumme of 551 l. 4 s. 6 d. impoſed in charge of damages was extremely exceſſive, when hee had offered to maintaine and prove (by Mr. <hi>Kirbyes</hi> allegations and otherwiſe) that
+<pb n="14" facs="tcp:171708:9"/>leſſe then 100 l. would have made i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (as it was left at the render of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Towne) in as good a condition to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> full as it was before the ſiege. At lengt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sir <hi>Hamon L'Eſtrange</hi> produced a wri<g ref="char:EOLhyphen"/>ting (conceived and digeſted by him and ſubſcribed by himſelfe and M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> 
+               <hi>Clench,</hi> and ſubſcription alſo promiſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Mr. <hi>Dereham,</hi> but after retracte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; refuſed) which writing he intende<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to have communicated to all the Gen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thither ſummoned and requeſted, and hoped it might have received their ap<g ref="char:EOLhyphen"/>probation, as alſo have given ſatisfacti<g ref="char:EOLhyphen"/>on to the <hi>Mayor</hi> &amp; <hi>Burgeſſes</hi> of <hi>Lynne</hi> which writing was as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Whereas the Hoſpitall or Almeſhouſe o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Geywood</hi> (in the county of <hi>Norfolke,</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and belonging to the Mayor &amp; Burgeſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of <hi>Lyn</hi>) was (in <hi>1643.</hi> by the comman<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the then Mayor of <hi>Lynne</hi> at the tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the ſiege thereof) uncovered and mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> inhabitable for the poore people of the ſame, which damage was further aug<g ref="char:EOLhyphen"/>mented and increaſed after the render o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Towne, the walles and other materi<g ref="char:EOLhyphen"/>alls
+<pb n="15" facs="tcp:171708:9"/>of the Hoſpitall being demoliſhed, and taken and imployed (by the Gover<g ref="char:EOLhyphen"/>nour there) in and about the works and fortifications of the ſaid towne, wee (whoſe names are hereto ſubſcribed) being moved with compaſſion for the loſſe and damage of ſo good a worke and monument of charity, and willing that it ſhould not periſh but be revived and preſerved to poſterity, and deſirous to remove the trouble and delay which by diſputes of comparative diſtributions may ariſe, and conſidering the nature of the worke, and the power and force in<g ref="char:EOLhyphen"/>vitatory of acts of mercy and goodneſſe, (and that the moment and charge by con<g ref="char:EOLhyphen"/>tribution from many is rendred light and eaſy to every one) doe freely and cheerefully give and beſtowe, and pro<g ref="char:EOLhyphen"/>miſe (upon demand) to pay ten pounds a peice for and towards the reedifying of the ſaid Hoſpitall, or Almeſhouſe, as un<g ref="char:EOLhyphen"/>der our hands and ſubſcriptions is in this paper hereafter expreſſed.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Aprill 15. 1647.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="16" facs="tcp:171708:10"/>
+            <p>This writing had reaſonable and faire acceptance of the Gentlemen, but <hi>reinfecta</hi> for want of appearance, and Sir <hi>Hamon L'Eſtrange</hi> and the Gentle<g ref="char:EOLhyphen"/>man tooke leave each of other.</p>
+            <p>Inſtantly after the gentleman being gone down the ſtaires,<note place="margin">R. P.</note> returned againe to Sir <hi>Hamon L'Eſtrange,</hi> and complain<g ref="char:EOLhyphen"/>ed that hee was much abuſed, for through his letter and invitation hee came thither, and was now arreſted at M<hi rend="sup">r.</hi> 
+               <hi>Tolls</hi> ſuite by one of the two per<g ref="char:EOLhyphen"/>ſons that followed him (which two had kept cloſe and undiſcovered;) Sir <hi>Ha<g ref="char:EOLhyphen"/>mon L'Eſtrange</hi> was much much troub<g ref="char:EOLhyphen"/>led thereat, and proteſted (as he now doth in the name and word of a gentle<g ref="char:EOLhyphen"/>man and a Chriſtian) that he was alto<g ref="char:EOLhyphen"/>gether innocent and ignorant of any ſuch intention, practiſe or purpoſe, and one of the officers ſaid, he <hi>durſt ſwar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> that Sir <hi>Hamon L'Eſtrange</hi> knew no<g ref="char:EOLhyphen"/>thing thereof, and Sir <hi>Hamon</hi> himſelfe had no ſooner ſaid, <hi>for any thing that I know I may be areſted alſo,</hi> but forth<g ref="char:EOLhyphen"/>with he was alſo accordingly arreſted.</p>
+            <pb n="17" facs="tcp:171708:10"/>
+            <p>And whereas Sir <hi>Hamon L'Eſtrange</hi> conceived the arreſt to be concerning the <hi>Hoſpitall,</hi> afterwards he percei<g ref="char:EOLhyphen"/>ved upon the plea and declaration of M<hi rend="sup">r.</hi> 
+               <hi>Toll,</hi> that he contrived a new Acti<g ref="char:EOLhyphen"/>on againſt Sir <hi>Hamon L'Eſtrange</hi> and other gentlemen for his impriſonment, and laid it at very great damages, hop<g ref="char:EOLhyphen"/>ing that the great number of defend<g ref="char:EOLhyphen"/>ants (as many hands make light work) might invite the Jury to a liberall ver<g ref="char:EOLhyphen"/>dict, the former recovery at <hi>Bury</hi> being farre ſhort of his content and ſatisfacti<g ref="char:EOLhyphen"/>on, but his wrong calculation was ſoon convinced by the cleare ſence of the <hi>Judges</hi> in open Court, declaring that he was barred from a ſecond action by acceptance of the verdict at <hi>Bury.</hi>
+            </p>
+            <p>Thus M<hi rend="sup">r.</hi> 
+               <hi>Toll</hi> for the accompliſh<g ref="char:EOLhyphen"/>ment of his owne ends deceived Sir <hi>Hamon L'Eſtrange</hi> his confidence, and further expoſed him to become a ſuſ<g ref="char:EOLhyphen"/>pected object of unfaithfulneſſe to<g ref="char:EOLhyphen"/>wards others; but he hopes that to can<g ref="char:EOLhyphen"/>did thoughts this narrative will waſh him cleane from the ſoile of any ſuch
+<pb n="18" facs="tcp:171708:11"/>ſilly conſpiracie againſt himſelfe, or unworthineſſe towards others; And for ſuch as have been and ſtill continue actours and abbetters in the reproach of Sir <hi>Hamon L'Eſtrange, let them bee filthy ſtill,</hi>
+               <note place="margin">Revel. 22.11.</note> 
+               <hi>Con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umeliae ſpretae exoleſ<g ref="char:EOLhyphen"/>cunt, ſi iraſcare agnitae videntur,</hi> Contu<g ref="char:EOLhyphen"/>melies are beſt confuted by neglect and contempt, to bee angry is to confeſſe the charge.</p>
+            <p>So much for hiſtory and vindication, And now <hi>Ille ego</hi>- I am the man that have thus crept into the preſſe to ſhew the oppreſſion of my reputation by ſome whoſe ſelfe-ſeeking ends are their beſt oratory, and who furrow their browe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the noyſe or apparition of any thing that may endanger to leſ<g ref="char:EOLhyphen"/>ſen or lighten them in the ſcales of rea<g ref="char:EOLhyphen"/>ſon, and thinke with the <hi>Sepia</hi> or <hi>Ink<g ref="char:EOLhyphen"/>fiſh</hi> to hide themſelves in the black and muddy water of malediction of o<g ref="char:EOLhyphen"/>thers; And I thanke them for this un<g ref="char:EOLhyphen"/>kind ſummons, and ſhall now repre<g ref="char:EOLhyphen"/>ſent unto them (as in a glaſſe or mir<g ref="char:EOLhyphen"/>rour which hitherto hung <hi>atergo,</hi> at
+<pb n="19" facs="tcp:171708:11"/>their backs and behind them) the face of their owne ſtate and condition vive<g ref="char:EOLhyphen"/>ly pourtrayd with the ſame penicil and parallells with mine, by which they ſhall not envy me their fellowſhips in my fortune by any lawfull meanes, as by unlawfull it was and ever ſhall be as farre from my thoughts as unworthy of a Gentleman, and an honeſt man.</p>
+            <p>
+               <hi>Acts of Community, Society, and Adhae<g ref="char:EOLhyphen"/>rence bind all ſuch as are parties there<g ref="char:EOLhyphen"/>unto.</hi>
+            </p>
+            <p>
+               <hi>The Mayor, Aldermen and Common Counſell of a Towne, City, or Corpora<g ref="char:EOLhyphen"/>tion, agree together in the defence thereof, and whoſoever therein adhaeres thereunto by either open &amp; expreſſed, or tacite conſent, or not expreſsed diſſent, is liable to the fortune and event of every Act of the Mayors command proper and uſuall, or probable and reaſonable, to<g ref="char:EOLhyphen"/>wards that defence.</hi>
+            </p>
+            <p>Here I ſay firſt the Mayor, &amp;c. who hath the power of Government <hi>Ma<g ref="char:EOLhyphen"/>giſtratus opidanos obligat intra eos actus quiſolent ab ipſis imperari,</hi> The Ma<g ref="char:EOLhyphen"/>giſtracie
+<pb n="20" facs="tcp:171708:12"/>binds the Inhabitants in ſuch things as they uſually command, <hi>alio<g ref="char:EOLhyphen"/>qui conſenſu opus eſt,</hi> otherwiſe there muſt bee a conſent, and therefore I ſay doe agree together, (which agreement is mentioned page the ſecond) and then <hi>facta per regentes Civitatem ſunt facta per ipſam Civitatem,</hi> the act of the Ma<g ref="char:EOLhyphen"/>giſtrate is the act of the Towne or City, and <hi>qui Civitatis vice fungitur rebus op<g ref="char:EOLhyphen"/>pidanorum uti, perdere, &amp; alienare po<g ref="char:EOLhyphen"/>teſt ob publicam utilitatem quae privatis aliquod jus in aliena concedit,</hi> the Ma<g ref="char:EOLhyphen"/>giſtrate (who is the repreſentee of a Town) may take, ſpoyle, and exchange the goods of the Inhabitants for the common profit &amp; preſervation, which alſo gives every private man a right one unto another.</p>
+            <p>Then I ſay <hi>Adhaeres,</hi> &amp;c. the Civilian ſayes <hi>Adhaerentes dicuniur qui ſunt ejus<g ref="char:EOLhyphen"/>dem velle eu jus eſt ille vel illi cui vel qui<g ref="char:EOLhyphen"/>bus fit adhaeſio,</hi> They are ſaid to Adhaere who are of the ſame minde with them to whom they adhaere.</p>
+            <p>
+               <hi>Plaine</hi> and <hi>Poſitive Adhaering</hi> is
+<pb n="21" facs="tcp:171708:12"/>by agreement, helpe, counſell, liking, approbation, and this in mat<g ref="char:EOLhyphen"/>ters of criminall offences branches into Acceſſaries
+<list>
+                  <item>before,</item>
+                  <item>after.</item>
+               </list>
+            </p>
+            <p>There is alſo <hi>Adhaering</hi> of <hi>Privation</hi> (as I may call it) like our <hi>meſpriſion</hi> by not forbidding, not countermanding, not diſwading, not diſcovering.</p>
+            <p>But in the greateſt and leſt offences as <hi>treaſons</hi> and <hi>treſpaſſes,</hi> (of which laſt our alledged offence is a ſpecies or branch) there are no Acceſſaries but all are Principalls.</p>
+            <list>
+               <item>1 The Gentlemen reſorted to <hi>Lynne,</hi> and concurred with the ſence of the <hi>Mayor</hi> for the defence of the Towne.</item>
+               <item>2 They daily dieted and tabled to<g ref="char:EOLhyphen"/>gether.</item>
+               <item>3 They daily otherwiſe met, confer<g ref="char:EOLhyphen"/>red, &amp; conſulted for their owne preſer<g ref="char:EOLhyphen"/>vation &amp; defence of the Town of <hi>Lyn.</hi>
+               </item>
+               <item>4 They contributed to the mainte<g ref="char:EOLhyphen"/>nance of the Souldiers, every one in<g ref="char:EOLhyphen"/>ſerting his name, and the ſumme hee gave per weeke in a liſt or paper.</item>
+               <pb n="22" facs="tcp:171708:13" rendition="simple:additions"/>
+               <item>5 They nominated one of them<g ref="char:EOLhyphen"/>ſelves to be collector and diſtributor of thoſe monies.<note place="margin">R. P.</note>
+               </item>
+               <item>6 They went the rounds nightly in their courſe, according to a ſet rule.</item>
+               <item>7 They daily overſaw, and gave di<g ref="char:EOLhyphen"/>rection in the works and fortifications, and therein Mr.<hi>D.</hi> was the prime <hi>In<g ref="char:EOLhyphen"/>genier</hi> by his late before long converſe and obſervation of the fortifications at <hi>London.</hi>
+               </item>
+            </list>
+            <p>Thus their <hi>Adhaerence</hi> is ſufficiently ſet forth and manifeſted, and conſe<g ref="char:EOLhyphen"/>quently clearely ſentenced liable by the opinion of the Judges openly deli<g ref="char:EOLhyphen"/>vered as is mentioned in the copy of the letter dated <hi>April</hi> the 6. 1647. p. 6.</p>
+            <p>Laſtly I ſay <hi>Adhaering</hi> to ſuch agree<g ref="char:EOLhyphen"/>ment is liable to the <hi>fortune of every Act of the Mayors command, proper and uſuall, or probable and reaſonable, towards the defence.</hi>
+            </p>
+            <p>Here Defence is the ſubject, and eve<g ref="char:EOLhyphen"/>ry act converſant therein (which muſt bind the <hi>Adhaerers</hi>) ought to be ſuch as (with reſpect to all the Circumſtances
+<pb n="23" facs="tcp:171708:13"/>of war) is uſuall and practiſed, or agree<g ref="char:EOLhyphen"/>able to the beſt reaſon, ſence and equi<g ref="char:EOLhyphen"/>ty, and untill a negative bee had, the affirmative allegation, and preſumpti<g ref="char:EOLhyphen"/>on herein ſtands good.</p>
+            <p>Here I might enter into a ſpacious field of matter, but I will not hazard to loſe my ſelfe by excurſions; what is ſaid may ſerve to the ſcope intended, which was to lay downe the Poſition, Definition, Deſcription and Proofes of Adhaerence and Adhaerers.</p>
+            <p>If any will alledge and plead this or that damage was otherwiſe or more then I meant, this will not ſerve, being either uſually practiſed or proper to the work, or not contradicted or oppo<g ref="char:EOLhyphen"/>ſed, <hi>ex toto enim noluiſſe debet qui im<g ref="char:EOLhyphen"/>prudentia defenditur,</hi> he that will ſave himſelfe againſt the charge of this or that which is done, muſt have appeared altogether unwilling before it was done.</p>
+            <p>Nor will it ſerve to ſay I was not pre<g ref="char:EOLhyphen"/>ſent when this or that was done, or I wiſhed or would have been gone (as
+<pb n="24" facs="tcp:171708:14"/>Sir <hi>Hamon L'Eſtrange</hi> &amp; others, though that ſpeaks moſt reaſon where follow<g ref="char:EOLhyphen"/>ed a totall after defection or falling off) or ſuch an one did moſt, (and therein Sir <hi>Hamon L'Estrange</hi> hath not where<g ref="char:EOLhyphen"/>of to boaſt) or to make comparative al<g ref="char:EOLhyphen"/>tercations or impeaching one another, (as ſchooleboyes when they goe to whipping) but <hi>actum eſt,</hi> the match is made, and al concurred in the common action, and hee that did leaſt meant to take the benefit of him that did moſt; rather the argument lies moſt againſt them that did leaſt, becauſe like lazy droanes they meant to eate the hony of others labours, and taſte what they never toyld for: but the <hi>Imperiall</hi> and <hi>Civill</hi> law (which ought to Judge in all queſtions of Warre &amp; Armes) tells us, <hi>In ſocietate pactum de lucro intelligitur etiam de damno,</hi> In Partnerſhip the match is made whether we gaine or loſe, and every one to beare his pro<g ref="char:EOLhyphen"/>portion, and <hi>aequum eſt ut communia habeantur damna quae ſocietatis cauſa contingunt,</hi> It is juſt that damages
+<pb n="25" facs="tcp:171708:14"/>ſhould be repaired in common which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n community were committed.</p>
+            <p>And to weigh it yet more exactly by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he beſt royall Standard, <hi>David</hi> ſayes,<note place="margin">1 Sam. 30 24.</note> 
+               <hi>As his part is that goes downe to the Bat<g ref="char:EOLhyphen"/>tle, ſo ſhall his part be that ſtayes by the ſtuffe, they ſhall all part alike,</hi> nay hee goes further and makes it a perpetuall act, <hi>And it was ſo that from that day for<g ref="char:EOLhyphen"/>ward he made it a ſtatute and ordinance unto this day.</hi>
+               <note place="margin">25.</note>
+            </p>
+            <p>But <hi>peſſimum venenum ſua cuique vti<g ref="char:EOLhyphen"/>litas,</hi> ſelf-ſeeking and private ends and profit does often ſo befogg and darken Judgement that what is equitable and generous cannot be diſcerned.</p>
+            <p>Had the Gentlemen either at the firſt reſented the violation of the <hi>Ar<g ref="char:EOLhyphen"/>ticles,</hi> as the common concernment, and every one ſaid to himſelfe <hi>nunc mea res agitur,</hi> when the neighbours houſe was on fire; Or hearkned to my mo<g ref="char:EOLhyphen"/>deſt deſires according to the <hi>juſtum &amp; decorum</hi> of our confaederation, and ſhouldred together for the mainte<g ref="char:EOLhyphen"/>nance of the partnerſhip &amp; ſociety be<g ref="char:EOLhyphen"/>gun
+<pb n="26" facs="tcp:171708:15"/>at <hi>Lynne,</hi> and pleaded togethe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our <hi>Charter</hi> of the <hi>Articles</hi> for our de<g ref="char:EOLunhyphen"/>fence and indemnity, I had not been ſingled out and made the ſole or chief anvile of the higheſt diſpleaſure fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that action, which (to our ſence) was a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> clearly aboliſhed by thoſe <hi>Articles,</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Sun ever ſhined; Nor had there bi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> place leſt for theſe jealouſies and con<g ref="char:EOLunhyphen"/>tumelies of the Gentlemen, nor for thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mine <hi>Apologie</hi> and vindication; In th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meane time I muſt tell them they are all in my debt, and ſome of them have paid me the wrong way, and though the reſpect to my numerous family and iſſue may move me to ſay unto them with the <hi>Epigramatiſt,</hi>
+               <q>
+                  <l>Ignoſcas petimus <hi>Vacerre</hi> tanti</l>
+                  <l>Non eſt ut placeam tibi perire;</l>
+               </q>
+            </p>
+            <p>Yet when my few and ſhort argu<g ref="char:EOLhyphen"/>ments for the law of <hi>Society</hi> ſhall be anſwered, (wherein ſome of them who are forward enough, <hi>projicere ampull as, &amp; ſeſquipedalia verba,</hi> ſhall do well to appeare) I ſhall then moſt willingly ac<g ref="char:EOLhyphen"/>quieſce to have paid moſt of all the
+<pb n="27" facs="tcp:171708:15"/>ſcore, and give a diſcharge, and till then <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> charge moſt of the gentlemen either never at all, or too little to have learn<g ref="char:EOLhyphen"/>ed, or too much, and too ſoone to have forgotten, thoſe juſt &amp; excellent rules and dutyes of humanity, entercourſe, civilityes and deportment (in all acti<g ref="char:EOLhyphen"/>ons and affaires of life) taught us by our old Tutour <hi>Tully</hi> in his Offices, of which booke (as we ſay the Quartane Ague is <hi>opprobrium medicorum,</hi> the ſhame of Phyſitians, becauſe it poſeth them to cure it) ſo I ſay of that booke of the Offices (<hi>in cujus nomine animi<g ref="char:EOLhyphen"/>tus ſemper recreor,</hi> to borrow a few of his own words) though by an heathen, is ſo divinely written (pardon the exu<g ref="char:EOLhyphen"/>berance) as may bee called <hi>opprobrium Christianorum,</hi> the ſhame of all chriſt<g ref="char:EOLhyphen"/>ians to be ſo poſed in the practiſe.</p>
+            <p>I have here ſpread plaine and ſmooth to open viewe the charge and imputa<g ref="char:EOLhyphen"/>tion upon mee, and my defence and anſwer thereunto, And after I indict the Gentlemen at the common barre of univerſall opinion and Iudgement
+<pb n="28" facs="tcp:171708:16"/>(wherein nevertheleſſe I except a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> abſolve ſome of them,
+<q>Queis meliore luto finxit praecordia Titan,</q>
+            </p>
+            <p>And who have opened and offer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves in all generoſity and ju<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reaſon to me) upon <hi>Apoſtacy</hi> and r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>volt from the ſolemne principles <hi>ſociety</hi> and <hi>confaederation;</hi> if th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> confeſſe the Indictment I leave the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the fortune of a fine and cenſure <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their reputation; If they traverſe, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> am ever prepared and ready with fu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther evidence for the triall.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171708:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
